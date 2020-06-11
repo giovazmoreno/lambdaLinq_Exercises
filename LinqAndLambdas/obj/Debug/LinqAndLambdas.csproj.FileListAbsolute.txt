@@ -1,0 +1,7 @@
+C:\Users\Giovanna\source\repos\LinqAndLambdas\LinqAndLambdas\bin\Debug\LinqAndLambdas.exe.config
+C:\Users\Giovanna\source\repos\LinqAndLambdas\LinqAndLambdas\bin\Debug\LinqAndLambdas.exe
+C:\Users\Giovanna\source\repos\LinqAndLambdas\LinqAndLambdas\bin\Debug\LinqAndLambdas.pdb
+C:\Users\Giovanna\source\repos\LinqAndLambdas\LinqAndLambdas\obj\Debug\LinqAndLambdas.csprojAssemblyReference.cache
+C:\Users\Giovanna\source\repos\LinqAndLambdas\LinqAndLambdas\obj\Debug\LinqAndLambdas.csproj.CoreCompileInputs.cache
+C:\Users\Giovanna\source\repos\LinqAndLambdas\LinqAndLambdas\obj\Debug\LinqAndLambdas.exe
+C:\Users\Giovanna\source\repos\LinqAndLambdas\LinqAndLambdas\obj\Debug\LinqAndLambdas.pdb
